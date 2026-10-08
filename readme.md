@@ -1,5 +1,6 @@
 # Tailoring portfolio
-A simple ,reponsive landing page for a home-base tailoring business in Islamabad.This project showcase services,provides contact information,and demonstrates a clean, professional web presence.
+A simple ,reponsive landing page for a home-base tailoring business in Islamabad,lahore,karachi.
+This project showcase services,provides contact information,and demonstrates a clean, professional web presence.
 ## Downloads
 {downloads}{images/homepage-download.jbg}
 ##How to Run
@@ -11,7 +12,6 @@ A simple ,reponsive landing page for a home-base tailoring business in Islamabad
  
  -HTMLS
  -CSS3
- -Git & GiHub
 
  ##Project Structure
 
